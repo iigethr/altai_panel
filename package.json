@@ -1,0 +1,16 @@
+{
+  "name": "altai_panel",
+  "title": "Altai Panel",
+  "version": "1.0.4",
+  "description": "Expand a given element within the window width & height.",
+  "main": "dist/altai_panel.js",
+  "dependencies": {
+    "jquery": "^3.0"
+  },
+  "repository": {
+    "url": "https://github.com/iigethr/altai_panel",
+    "type": "git"
+  },
+  "author": "Team IIGETHR <wearesocial@iigethr.com>",
+  "license": "MIT"
+}
